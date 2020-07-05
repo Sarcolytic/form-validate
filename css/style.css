@@ -1,0 +1,13 @@
+.container {
+    margin: 50px;
+}
+
+.container input {
+    margin-bottom: 10px;
+    border-radius: 0;
+}
+
+.input-invalid {
+    border-color: #fc2c03;
+    border-width: 2px;
+}
